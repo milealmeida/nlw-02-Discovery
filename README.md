@@ -1,6 +1,4 @@
-<h1 align="center"> 
-    <img src="public/images/logo.svg">
-</h1>
+# 📚 Proffy - Sua plataforma de estudos online
 
 <h1 align="center"> 
     <img src="public/images/telaInicial.png">
