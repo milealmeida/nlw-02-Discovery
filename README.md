@@ -4,12 +4,6 @@
     <img src="public/images/telaInicial.png">
 </h1>
 
-# 📍 Indice
-- [Sobre](#-sobre) 
-- [Tecnologias](#-tecnologias) 
-- [Como baixar](#-baixar) 
-- [Como rodar](#-rodar) 
-
 # 💻 Sobre o projeto
 A plataforma **Proffy** tem o objetivo de conectar professores e alunos de forma fácil. Os usuários tem a opção de dar aulas ou encontrar um proffy, conforme o filtro selecionado, podendo escolher, quais horários ou matérias desejadas.
 
@@ -36,8 +30,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/milealmeida/nlw-02-Discovery
-
+    $ git clone https://github.com/milealmeida/nlw-discovery-proffy
     # Entrar no diretório
     $ cd project
 
